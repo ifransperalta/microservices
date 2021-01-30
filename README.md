@@ -1,7 +1,5 @@
 Node-Express-MySql-Typescript
 
-How to install this microservice
-
     npm init 
     npm i typescript | check version tsc --v
     npm i express
